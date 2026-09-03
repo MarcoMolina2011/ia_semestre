@@ -1,0 +1,8 @@
+Equipo caliente -> revisar ventilación
+Internet cae -> revisar DNS o enlace
+App lenta -> revisar CPU, memoria y disco
+Cuenta bloqueada -> revisar permisos
+Error de impresora -> revisar conexión USB
+Sistema no arranca -> revisar disco duro
+Pantalla azul -> revisar drivers
+Red lenta -> revisar router
