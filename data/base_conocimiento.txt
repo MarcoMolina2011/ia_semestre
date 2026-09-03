@@ -1,8 +1,17 @@
-Equipo caliente -> revisar ventilación
-Internet cae -> revisar DNS o enlace
-App lenta -> revisar CPU, memoria y disco
-Cuenta bloqueada -> revisar permisos
-Error de impresora -> revisar conexión USB
-Sistema no arranca -> revisar disco duro
-Pantalla azul -> revisar drivers
-Red lenta -> revisar router
+Equipo caliente -> revisar ventilación y limpiar ventilador; verificar piezas visibles; ajustar tornillería; aplicar lubricante a partes móviles
+Internet cae -> revisar DNS y enlace de red; comprobar configuración del router; reiniciar modem; verificar cableado
+App lenta -> revisar CPU, memoria y disco; cerrar procesos innecesarios; optimizar inicio automático
+Cuenta bloqueada -> revisar permisos de usuario; restablecer credenciales; verificar políticas de seguridad
+Error de impresora -> revisar conexión USB; reinstalar drivers; comprobar nivel de tinta o tóner
+Sistema no arranca -> revisar disco duro y BIOS; comprobar fuente de poder; verificar cables internos
+Pantalla azul -> revisar drivers y actualizaciones; ejecutar diagnóstico de memoria RAM; comprobar hardware defectuoso
+Red lenta -> revisar router y cableado; optimizar configuración Wi-Fi; comprobar interferencias
+Aplicación no responde -> reiniciar proceso; reinstalar aplicación; verificar compatibilidad con sistema operativo
+Virus detectado -> ejecutar antivirus; aislar archivos infectados; actualizar definiciones de seguridad
+Actualización fallida -> reinstalar sistema o aplicar rollback; verificar espacio en disco; comprobar integridad de archivos
+Usuario sin permisos -> asignar privilegios adecuados; revisar roles y políticas
+Disco lleno -> liberar espacio; eliminar archivos temporales; ampliar almacenamiento con disco externo
+CPU sobrecargado -> cerrar procesos innecesarios; optimizar tareas; revisar ventilación del equipo
+Router desconectado -> reiniciar router; verificar conexión física; comprobar configuración de red
+
+
