@@ -44,7 +44,6 @@ Ejemplo de salida en `reports/semana05.md`:
 
 # Tabla de distribución por categorías
 
-|-----------------|------------------------|-------------------------------------------------------------------------------|
 | **Categoría**   | **Situación**          | **Acción recomendada**                                                        |
 |-----------------|------------------------|-------------------------------------------------------------------------------|
 | **Hardware**    | Equipo caliente        | Revisar ventilación, limpiar ventilador, ajustar tornillería, lubricar piezas |
@@ -53,19 +52,15 @@ Ejemplo de salida en `reports/semana05.md`:
 |                 | Error de impresora     | Revisar conexión USB, reinstalar drivers, comprobar tinta/tóner               |
 |                 | Disco lleno            | Liberar espacio, eliminar temporales, ampliar almacenamiento                  |
 |                 | CPU sobrecargado       | Cerrar procesos innecesarios, optimizar tareas, revisar ventilación           |
-|-----------------|------------------------|-------------------------------------------------------------------------------|
 | **Red**         | Internet cae           | Revisar DNS, router, modem, cableado                                          |
 |                 | Red lenta              | Revisar router, cableado, optimizar Wi-Fi, comprobar interferencias           |
 |                 | Router desconectado    | Reiniciar router, verificar conexión física                                   |
-|-----------------|------------------------|-------------------------------------------------------------------------------|
 | **Seguridad**   | Cuenta bloqueada       | Revisar permisos, restablecer credenciales, verificar políticas               |
 |                 | Usuario sin permisos   | Asignar privilegios adecuados, revisar roles                                  |
 |                 | Virus detectado        | Ejecutar antivirus, aislar archivos, actualizar definiciones                  |
-|-----------------|------------------------|-------------------------------------------------------------------------------|
 | **Rendimiento** | App lenta              | Revisar CPU, memoria, disco; cerrar procesos; optimizar inicio automático     |
 |                 | Aplicación no responde | Reiniciar proceso, reinstalar aplicación, verificar compatibilidad            |
 | **Software**    | Actualización fallida  | Reinstalar sistema, aplicar rollback, verificar espacio en disco              |
-|-----------------|------------------------|-------------------------------------------------------------------------------|
 
 
 
