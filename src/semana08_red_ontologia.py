@@ -80,3 +80,13 @@ for i in range(5):  # Guarda 5 ejemplos
     plt.savefig(ARTIFACTS / f"digito_{i}.png")   # Guarda archivo PNG
     plt.close()
 print("Imágenes guardadas en artifacts/: digito_0.png ... digito_4.png")
+
+# --- Checklist de verificación de artefactos ---
+print("\n--- Checklist de artefactos ---")
+
+# Lista de nombres de archivos que deberían existir en la carpeta artifacts
+for nombre in ["modelo_mlp.pkl", "imagenes.db", "ontologia.graphml"] + [f"digito_{i}.png" for i in range(5)]:
+    ruta = ARTIFACTS / nombre   # Construye la ruta completa del archivo
+    # Imprime ✔ si el archivo existe, ✘ si no existe
+    print(f"{nombre}: {'✔' if ruta.exists() else '✘'}")
+
